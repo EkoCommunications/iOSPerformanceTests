@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E970457B1858E6620039E0D2"
                BuildableName = "EkoTextDrawingTests.app"
-               BlueprintName = "EkoTextDrawingTests"
-               ReferencedContainer = "container:EkoTextDrawingTests.xcodeproj">
+               BlueprintName = "iOSPerformanceTests"
+               ReferencedContainer = "container:iOSPerformanceTests.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E970459C1858E6620039E0D2"
                BuildableName = "EkoTextDrawingTestsTests.xctest"
-               BlueprintName = "EkoTextDrawingTestsTests"
-               ReferencedContainer = "container:EkoTextDrawingTests.xcodeproj">
+               BlueprintName = "iOSPerformanceTestsTests"
+               ReferencedContainer = "container:iOSPerformanceTests.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E970457B1858E6620039E0D2"
             BuildableName = "EkoTextDrawingTests.app"
-            BlueprintName = "EkoTextDrawingTests"
-            ReferencedContainer = "container:EkoTextDrawingTests.xcodeproj">
+            BlueprintName = "iOSPerformanceTests"
+            ReferencedContainer = "container:iOSPerformanceTests.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E970457B1858E6620039E0D2"
             BuildableName = "EkoTextDrawingTests.app"
-            BlueprintName = "EkoTextDrawingTests"
-            ReferencedContainer = "container:EkoTextDrawingTests.xcodeproj">
+            BlueprintName = "iOSPerformanceTests"
+            ReferencedContainer = "container:iOSPerformanceTests.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E970457B1858E6620039E0D2"
             BuildableName = "EkoTextDrawingTests.app"
-            BlueprintName = "EkoTextDrawingTests"
-            ReferencedContainer = "container:EkoTextDrawingTests.xcodeproj">
+            BlueprintName = "iOSPerformanceTests"
+            ReferencedContainer = "container:iOSPerformanceTests.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EKOViewController : UIViewController
+@interface EKOTextDisplayTableViewController : UITableViewController
+
+
+-(IBAction)changeStyleButtonAction:(id)sender;
+
 
 @end
